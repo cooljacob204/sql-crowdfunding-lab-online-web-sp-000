@@ -1,7 +1,7 @@
-CREATE TABLE cats (
+CREATE TABLE project (
 id INTEGER PRIMARY KEY,
-name TEXT,
-age INTEGER,
-breed TEXT, 
+title TEXT,
+category text,
+funding TEXT, 
 net_worth INTEGER
 );
