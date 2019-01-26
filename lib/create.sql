@@ -2,6 +2,6 @@ CREATE TABLE project (
 id INTEGER PRIMARY KEY,
 title TEXT,
 category text,
-funding TEXT, 
+funding_goal INTEGER, 
 net_worth INTEGER
 );
