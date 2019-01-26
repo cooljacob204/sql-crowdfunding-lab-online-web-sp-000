@@ -14,5 +14,7 @@ age INTEGER
 );
 
 CREATE TABLE pledges (
-sweg
+id INTEGER PRIMARY KEY,
+user_id INTEGER,
+project_id INTEGER
 );
