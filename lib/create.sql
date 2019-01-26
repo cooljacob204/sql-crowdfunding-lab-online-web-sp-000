@@ -10,5 +10,5 @@ end_date TEXT
 CREATE TABLE user (
 id INTEGER PRIMARY KEY,
 name TEXT,
-a INTEGER
+age INTEGER
 );
