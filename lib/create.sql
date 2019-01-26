@@ -14,5 +14,5 @@ age INTEGER
 );
 
 CREATE TABLE pledges (
-
+sweg
 );
